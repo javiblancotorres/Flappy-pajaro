@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\jumpScript.cs" />
      <Compile Include="Assets\Scripts\movimientoScript.cs" />
      <Compile Include="Assets\Scripts\ratonScript.cs" />
+     <Compile Include="Assets\Scripts\scoureUp.cs" />
      <Compile Include="Assets\Scripts\scrollInfinito.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
