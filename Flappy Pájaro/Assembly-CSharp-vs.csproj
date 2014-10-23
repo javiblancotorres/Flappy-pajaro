@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\columnaScript.cs" />
      <Compile Include="Assets\Scripts\generadorScript.cs" />
      <Compile Include="Assets\Scripts\jumpScript.cs" />
+     <Compile Include="Assets\Scripts\menuScript.cs" />
      <Compile Include="Assets\Scripts\movimientoScript.cs" />
      <Compile Include="Assets\Scripts\ratonScript.cs" />
      <Compile Include="Assets\Scripts\scoureUp.cs" />
