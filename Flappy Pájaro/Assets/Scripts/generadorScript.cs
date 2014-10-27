@@ -19,12 +19,15 @@ public class generadorScript : MonoBehaviour {
 			var altura = Random.Range (-1.5f, 1.5f);
 			var tipocolumna = Random.Range (0, columna.Length);
 
+			if(!GameControl.dead){
 			var nuevacolumna = (GameObject)Instantiate(columna[tipocolumna], new Vector3(posicion.x,posicion.y+altura, posicion.z), transform.rotation);
 			timer = Time.time+tiempoespera;
 			Destroy(nuevacolumna, tiempoespera + 2);
 		
-		
-		
+			}
+	      
+
+
 		}
 	}
 }
