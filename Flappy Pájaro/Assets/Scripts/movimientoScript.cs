@@ -3,8 +3,8 @@ using System.Collections;
 
 public class movimientoScript : MonoBehaviour {
 
-	public int vhorizontal = 10;
-	public int vvertical = 10;
+	public float vhorizontal = 10;
+	public float vvertical = 10;
 	//esto de abajo significa que vas a crear una variable llamada movimiento, de tipo Vector3
 	Vector3 movimiento;
 	Vector3 posicionRaton;

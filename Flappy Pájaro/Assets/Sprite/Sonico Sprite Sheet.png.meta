@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 51b8bfb5c5eff97418d89c89774fadb8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sonico Sprite Sheet
+    21300002: Sonico Sprite Sheet_0
+    21300004: Sonico Sprite Sheet_1
+    21300006: Sonico Sprite Sheet_2
+    21300008: Sonico Sprite Sheet_3
+    21300010: Sonico Sprite Sheet_4
+    21300012: Sonico Sprite Sheet_5
+    21300014: Sonico Sprite Sheet_6
+    21300016: Sonico Sprite Sheet_7
+    21300018: Sonico Sprite Sheet_8
+    21300020: Sonico Sprite Sheet_9
+    21300022: Sonico Sprite Sheet_10
+    21300024: Sonico Sprite Sheet_11
+    21300026: Sonico Sprite Sheet_12
+    21300028: Sonico Sprite Sheet_13
+    21300030: Sonico Sprite Sheet_14
+    21300032: Sonico Sprite Sheet_15
+    21300034: Sonico Sprite Sheet_16
+    21300036: Sonico Sprite Sheet_17
+    21300038: Sonico Sprite Sheet_18
+    21300040: Sonico Sprite Sheet_19
+    21300042: Sonico Sprite Sheet_20
+    21300044: Sonico Sprite Sheet_21
+    21300046: Sonico Sprite Sheet_22
+    21300048: Sonico Sprite Sheet_23
+    21300050: Sonico Sprite Sheet_24
+    21300052: Sonico Sprite Sheet_25
+    21300054: Sonico Sprite Sheet_26
+    21300056: Sonico Sprite Sheet_27
+    21300058: Sonico Sprite Sheet_28
+    21300060: Sonico Sprite Sheet_29
+    21300062: Sonico Sprite Sheet_30
+    21300064: Sonico Sprite Sheet_31
+    21300066: Sonico Sprite Sheet_32
+    21300068: Sonico Sprite Sheet_33
+    21300070: Sonico Sprite Sheet_34
+    21300072: Sonico Sprite Sheet_35
+    21300074: Sonico Sprite Sheet_36
+    21300076: Sonico Sprite Sheet_37
+    21300078: Sonico Sprite Sheet_38
+    21300080: Sonico Sprite Sheet_39
+    21300082: Sonico Sprite Sheet_40
+    21300084: Sonico Sprite Sheet_41
+    21300086: Sonico Sprite Sheet_42
+    21300088: Sonico Sprite Sheet_43
+    21300090: Sonico Sprite Sheet_44
+    21300092: Sonico Sprite Sheet_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sonico Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 966
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 966
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 966
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 966
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 966
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 85
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 841
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 841
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 841
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 841
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 841
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 841
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 841
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 713
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 713
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 714
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 714
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 714
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 714
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 714
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 714
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 714
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 644
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 643
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 644
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 644
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 643
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 643
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 79
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 503
+        width: 86
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 503
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 503
+        width: 80
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 105
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 379
+        width: 106
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 384
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 257
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 131
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 80
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonico Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 0
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
