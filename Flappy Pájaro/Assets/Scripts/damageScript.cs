@@ -13,9 +13,9 @@ public class damageScript : MonoBehaviour {
 	
 	}
 
-	void OnCollisionEnter2D (Collision2D col){
-		 {
-			}
+	void OnCollisionEnter2D (Collision2D coll){
+		 if (coll.gameObject.tag == "Enemigo")
+						GameControl.score = GameControl.score - 5;
 
 	}
 

@@ -18,11 +18,17 @@ public class scoureUp : MonoBehaviour {
 
 
 
-	void OnTriggerEnter2D(Collider2D col) {
+	void OnTriggerEnter2D(Collider2D coll) {
 		GameControl.score = GameControl.score + 1;
+
+		//if(coll.gameObject.tag == "Moneda")
+			//Destroy;
+	
+
 		//Debug.Log (GameControl.score);
 
 		Texto.text = "Level" + GameControl.score.ToString ();
 		TextoFinal.text = Texto.text;
 	}
+
 }

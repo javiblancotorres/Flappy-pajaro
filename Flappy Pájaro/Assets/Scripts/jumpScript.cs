@@ -40,12 +40,11 @@ public class jumpScript : MonoBehaviour {
 	
 	void OnCollisionEnter2D(Collision2D col)
 	{
-		if(!GameControl.dead){
-			GameControl.dead = true;
+		//if(!GameControl.dead){
+		//	GameControl.dead = true;
 			//AudioSource.PlayClipAtPoint(deadSound, transform.position);
 			//anim.SetBool("dead",true);
-			rigidbody2D.gravityScale = 4;
-			transform.localScale = new Vector3 (transform.localScale.x, transform.localScale.y*-1, transform.localScale.z);
+		//	rigidbody2D.gravityScale = 4;
+		//	transform.localScale = new Vector3 (transform.localScale.x, transform.localScale.y*-1, transform.localScale.z);
 		}
 	}
-}

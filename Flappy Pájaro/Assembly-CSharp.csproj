@@ -50,6 +50,8 @@
      <Compile Include="Assets\Scripts\RendererExtension.cs" />
      <Compile Include="Assets\Scripts\columnaScript.cs" />
      <Compile Include="Assets\Scripts\damageScript.cs" />
+     <Compile Include="Assets\Scripts\gemaScript.cs" />
+     <Compile Include="Assets\Scripts\gemaScript2.cs" />
      <Compile Include="Assets\Scripts\generadorScript.cs" />
      <Compile Include="Assets\Scripts\jumpScript.cs" />
      <Compile Include="Assets\Scripts\menuScript.cs" />
@@ -57,6 +59,7 @@
      <Compile Include="Assets\Scripts\ratonScript.cs" />
      <Compile Include="Assets\Scripts\scoureUp.cs" />
      <Compile Include="Assets\Scripts\scrollInfinito.cs" />
+     <Compile Include="Assets\SoundScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
